@@ -261,3 +261,7 @@ All variables prefixed with `VITE_` are bundled into the client by Vite and are 
 **OG image**: `index.html` currently references `/og-image.png` as a placeholder. Place the actual image at `public/og-image.png` before going live.
 
 **`package-lock.json`**: after running `npm install` for the first time, the lock file will be regenerated. 
+
+## Owner Dashboard
+**User ID** hr@slogfy.in
+**Password** 12345678
