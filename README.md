@@ -264,4 +264,5 @@ All variables prefixed with `VITE_` are bundled into the client by Vite and are 
 
 ## Owner Dashboard
 **User ID** hr@slogfy.in
+
 **Password** 12345678
