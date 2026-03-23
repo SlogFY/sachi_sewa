@@ -263,6 +263,6 @@ All variables prefixed with `VITE_` are bundled into the client by Vite and are 
 **`package-lock.json`**: after running `npm install` for the first time, the lock file will be regenerated. 
 
 ## Owner Dashboard
-**User ID** hr@slogfy.in
+**User ID:-** hr@slogfy.in
 
-**Password** 12345678
+**Password:-** 12345678
